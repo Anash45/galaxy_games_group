@@ -373,6 +373,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+    .navbar-toggler{
+        width: fit-content;
+    }
     .nav-btn-cont {
         display: none !important;
     }
