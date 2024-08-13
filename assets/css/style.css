@@ -56,7 +56,9 @@ body {
 .navbar-collapse {
     position: relative;
 }
-
+.opacity-0{
+    opacity: 0;
+}
 .nav-border {
     position: absolute;
     top: calc(100% + 30px);
