@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Urbane Condensed';
+    src: url('UrbaneCondensed-Thin.eot');
+    src: local('Urbane Condensed Thin'), local('UrbaneCondensed-Thin'),
+        url('UrbaneCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-Thin.woff2') format('woff2'),
+        url('UrbaneCondensed-Thin.woff') format('woff'),
+        url('UrbaneCondensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Condensed Demi';
+    src: url('UrbaneCondensed-DemiBold.eot');
+    src: local('Urbane Condensed Demi Bold'), local('UrbaneCondensed-DemiBold'),
+        url('UrbaneCondensed-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-DemiBold.woff2') format('woff2'),
+        url('UrbaneCondensed-DemiBold.woff') format('woff'),
+        url('UrbaneCondensed-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Condensed';
+    src: url('UrbaneCondensed-Medium.eot');
+    src: local('Urbane Condensed Medium'), local('UrbaneCondensed-Medium'),
+        url('UrbaneCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-Medium.woff2') format('woff2'),
+        url('UrbaneCondensed-Medium.woff') format('woff'),
+        url('UrbaneCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Condensed';
+    src: url('UrbaneCondensed-Bold.eot');
+    src: local('Urbane Condensed Bold'), local('UrbaneCondensed-Bold'),
+        url('UrbaneCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-Bold.woff2') format('woff2'),
+        url('UrbaneCondensed-Bold.woff') format('woff'),
+        url('UrbaneCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Condensed Extra';
+    src: url('UrbaneCondensed-ExtraLight.eot');
+    src: local('Urbane Condensed Extra Light'), local('UrbaneCondensed-ExtraLight'),
+        url('UrbaneCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-ExtraLight.woff2') format('woff2'),
+        url('UrbaneCondensed-ExtraLight.woff') format('woff'),
+        url('UrbaneCondensed-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Condensed';
+    src: url('UrbaneCondensed-Light.eot');
+    src: local('Urbane Condensed Light'), local('UrbaneCondensed-Light'),
+        url('UrbaneCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-Light.woff2') format('woff2'),
+        url('UrbaneCondensed-Light.woff') format('woff'),
+        url('UrbaneCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Condensed';
+    src: url('UrbaneCondensed-Heavy.eot');
+    src: local('Urbane Condensed Heavy'), local('UrbaneCondensed-Heavy'),
+        url('UrbaneCondensed-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('UrbaneCondensed-Heavy.woff2') format('woff2'),
+        url('UrbaneCondensed-Heavy.woff') format('woff'),
+        url('UrbaneCondensed-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Rigel Star";
+    src: url('./Rigelstar.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
